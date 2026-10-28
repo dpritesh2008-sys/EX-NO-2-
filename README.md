@@ -188,7 +188,7 @@ return 0;
 
 
 ## Output:
-<img width="680" height="521" alt="Screenshot 2026-10-27 210909" src="https://github.com/user-attachments/assets/05e6e6da-ed12-4f7e-ab9d-d6264ae554c3" />
+<img width="686" height="905" alt="image" src="https://github.com/user-attachments/assets/ef8c713f-ead4-4fea-8ad1-99e44b6123b8" />
 
 ## Result:
 Thus the implementation of Playfair Substitution technique had been executed successfully.
