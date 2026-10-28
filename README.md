@@ -29,7 +29,6 @@ STEP-5: Display the obtained cipher text.
 
 
 ## Program:
-~~~
 #include <stdio.h>  
 #include <string.h>  
 #include <ctype.h>  
@@ -184,11 +183,9 @@ decrypt(DT);
 printf("Decrypted Text: %s\n", DT);  
 return 0;  
 }
-~~~
-
 
 ## Output:
-<img width="686" height="905" alt="image" src="https://github.com/user-attachments/assets/ef8c713f-ead4-4fea-8ad1-99e44b6123b8" />
+<img width="922" height="602" alt="image" src="https://github.com/user-attachments/assets/8b8ae25b-e978-4f36-9e8e-57f6840d0c99" />
 
 ## Result:
 Thus the implementation of Playfair Substitution technique had been executed successfully.
